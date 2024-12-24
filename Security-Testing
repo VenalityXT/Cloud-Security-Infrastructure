@@ -1,0 +1,15 @@
+# Security Testing
+
+## Penetration Testing
+Performed basic penetration tests to identify vulnerabilities in the infrastructure, including:
+- **Open ports** in security groups.
+- **Misconfigured IAM roles** that could be exploited.
+- **Unencrypted data** in S3 buckets.
+
+## Findings
+- Identified and remediated exposed SSH ports.
+- Tightened IAM role policies to reduce access permissions.
+
+## Recommendations
+- Conduct regular security audits.
+- Implement logging and monitoring for real-time threat detection.
