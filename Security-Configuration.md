@@ -15,3 +15,4 @@
 ## Firewalls and Network Segmentation
 - Configured **AWS Security Groups** and **Network ACLs** to control traffic flow between subnets and to/from the internet.
 - Implemented **Azure Network Security Groups (NSGs)** to control inbound and outbound traffic to VMs and resources.
+  
