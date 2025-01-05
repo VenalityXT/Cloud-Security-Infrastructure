@@ -7,7 +7,7 @@
 4. Deployed a **CloudWatch** monitoring setup to track metrics and logs.
 
 ## Azure Deployment Steps:
-1. Created **Virtual Network** (VNet) with subnets for each environment.
+1. Created **Virtual Network** (VNet) with subnets for each environment. 
 2. Deployed **VMs** with secure access using Azure AD-based authentication.
 3. Configured **Key Vault** for secret management and encryption keys.
 4. Set up **Azure Monitor** to monitor the health and performance of resources.
