@@ -33,4 +33,4 @@ Recommendations for Securing Cloud Infrastructure:
 • Use multi-factor authentication (MFA) for AWS root and privileged user accounts.                        
 • Enable encryption for data at rest and in transit using AWS KMS and SSL/TLS.                            
 • Leverage AWS CloudTrail for auditing and monitoring all account activity.                               
-• Ensure regular backups and implement disaster recovery planning for high availability.                  
+• Ensure regular backups and implement disaster recovery planning for high availability.                   
