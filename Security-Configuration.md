@@ -3,7 +3,7 @@
 ## Identity and Access Management (IAM)
 - Configured **IAM roles** for specific use cases (e.g., EC2 instances, Lambda functions) with the principle of least privilege.
 - Created **IAM policies** that restrict access to only necessary resources and actions.
-
+ 
 ## Multi-Factor Authentication (MFA)
 - Enforced **MFA** for all IAM users and root accounts to enhance access control.
 - Configured **AWS MFA** and **Azure MFA** for securing access to the cloud environments.
