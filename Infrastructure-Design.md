@@ -6,7 +6,7 @@ The cloud infrastructure was designed with high availability, scalability, and s
 - **AWS VPC Configuration**: 
   - Public and private subnets for separation of resources.
   - Internet Gateway for public access to selected services.
-  - Route tables and Network ACLs for controlling traffic flow.
+  - Route tables and Network ACLs for controlling traffic flow. 
 
 - **Azure VNet Configuration**: 
   - Hub-and-spoke network topology for segmenting workloads.
