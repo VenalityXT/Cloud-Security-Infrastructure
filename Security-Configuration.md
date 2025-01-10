@@ -7,7 +7,7 @@
 ## Multi-Factor Authentication (MFA)
 - Enforced **MFA** for all IAM users and root accounts to enhance access control.
 - Configured **AWS MFA** and **Azure MFA** for securing access to the cloud environments.
-
+ 
 ## Data Encryption
 - **AWS**: Used **S3 Server-Side Encryption (SSE)** for data stored in S3, **EBS encryption** for EC2 volumes, and **SSL/TLS** for data in transit.
 - **Azure**: Used **Azure Key Vault** for storing and managing secrets, encryption keys, and certificates. Enforced **encryption at rest** for all storage accounts.
