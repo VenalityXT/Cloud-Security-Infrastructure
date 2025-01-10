@@ -3,7 +3,7 @@
 ## Architecture Overview
 The cloud infrastructure was designed with high availability, scalability, and security in mind. The architecture includes multiple **VPCs** for isolation and segmentation of different environments (e.g., production, staging, testing).
 
-- **AWS VPC Configuration**: 
+- **AWS VPC Configuration**:  
   - Public and private subnets for separation of resources.
   - Internet Gateway for public access to selected services.
   - Route tables and Network ACLs for controlling traffic flow. 
