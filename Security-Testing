@@ -3,7 +3,7 @@
 ## Penetration Testing
 Performed basic penetration tests to identify vulnerabilities in the infrastructure, including:
 - **Open ports** in security groups.
-- **Misconfigured IAM roles** that could be exploited.
+- **Misconfigured IAM roles** that could be exploited. 
 - **Unencrypted data** in S3 buckets.
 
 ## Findings
